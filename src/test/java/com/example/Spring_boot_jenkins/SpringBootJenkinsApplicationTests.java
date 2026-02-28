@@ -2,11 +2,8 @@ package com.example.Spring_boot_jenkins;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
-import org.junit.platform.commons.logging.Logger;
-import org.junit.platform.commons.logging.LoggerFactory;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import static com.example.Spring_boot_jenkins.SpringBootJenkinsApplication.logger;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest
