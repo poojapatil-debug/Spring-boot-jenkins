@@ -16,7 +16,7 @@ class SpringBootJenkinsApplicationTests {
         log.info("contextLoads test case executed");
 		log.info("test case executed");
 		assertEquals(1,1);
-		assertEquals(2,2);
+		assertEquals(3,3);
 
 	}
 }
